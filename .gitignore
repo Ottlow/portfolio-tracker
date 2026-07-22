@@ -1,0 +1,20 @@
+# Real portfolio data — keep private
+portfolio.csv.real
+inflation_cache.json
+tracker.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+desktop.ini
