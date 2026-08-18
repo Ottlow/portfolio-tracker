@@ -1,11 +1,10 @@
 # Terminal Portfolio Tracker
 
 Real-time terminal dashboard for a multi-currency equity portfolio: live prices, risk metrics, and Markowitz optimization, all in the terminal.
+<img width="1894" height="1019" alt="image" src="https://github.com/user-attachments/assets/37ff1f34-2b04-4598-8487-4d6c1c7d8008" />
 
-![Dashboard](screenshots/dashboard.png)
+<img width="1907" height="880" alt="image" src="https://github.com/user-attachments/assets/2269b086-e479-47f9-85d9-ac9422479932" />
 
-
-![Correlation Matrix](screenshots/correlation.png)
 
 
 ---
