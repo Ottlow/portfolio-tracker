@@ -2,6 +2,12 @@
 
 Real-time terminal dashboard for a multi-currency equity portfolio: live prices, risk metrics, and Markowitz optimization, all in the terminal.
 
+![Dashboard](screenshots/dashboard.png)
+
+
+![Correlation Matrix](screenshots/correlation.png)
+
+
 ---
 
 ## Why I Built This
