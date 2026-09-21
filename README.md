@@ -12,7 +12,7 @@ Real-time terminal dashboard for a multi-currency equity portfolio: live prices,
 
 ## Why I Built This
 
-As a finance student interested in markets and quant, I wanted to go beyond spreadsheet tracking. This project gave me hands-on experience with live market data pipelines, multi-currency P&L accounting, and portfolio construction techniques rendered in a terminal UI.
+As a finance student interested in markets, I wanted to go beyond spreadsheet tracking. This project gave me hands-on experience with live market data pipelines, multi-currency P&L accounting, and portfolio construction techniques rendered in a terminal UI.
 
 ---
 
